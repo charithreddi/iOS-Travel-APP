@@ -1,2 +1,2 @@
-# iOS-Travel-APP
-an application that solves a real-world problem for a fictional user persona.
+# iOS-Travel-App
+An application that solves a real-world problem for a fictional user persona.
