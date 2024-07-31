@@ -8,6 +8,7 @@ Here are the key points:
 Purpose:
 The app aims to provide users with a way to explore different types of trips and possibly manage travel plans.
 
+
 Main Components:
 ExploreHereApp.swift: 
 This is the main entry point of the app. It sets up the initial environment and launches the ContentView.
@@ -25,7 +26,6 @@ The app uses SwiftUI for building the user interface, ensuring a modern and resp
 
 
 State Management:
-
 The app uses SwiftUI’s state management features to handle the trip data, ensuring that changes in trip types or details are reflected in the UI.
 
 
