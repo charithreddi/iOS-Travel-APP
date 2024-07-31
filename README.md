@@ -1,11 +1,12 @@
 # iOS-Travel-App
 An application that solves a real-world problem for a fictional user persona.
 
-This app is a SwiftUI-based application designed to help users explore various trip types and manage their travel experiences. Here are the key points:
+This app is a SwiftUI-based application designed to help users explore various trip types and manage their travel experiences.
+
+Here are the key points:
 
 Purpose:
 The app aims to provide users with a way to explore different types of trips and possibly manage travel plans.
-
 
 Main Components:
 ExploreHereApp.swift: 
